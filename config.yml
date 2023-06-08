@@ -1,0 +1,12 @@
+s3:
+    access_key_id: ''
+    secret_access_key: ''
+    bucket_name: ''
+
+image_settings:
+    horizontal_res: 1920
+    vertical_res: 1080
+    file_name: 'timelapse.jpg'
+    awb_mode: 'auto'
+
+debug: true
